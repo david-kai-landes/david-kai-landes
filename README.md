@@ -6,7 +6,7 @@ I'm a dedicated Software Developer experienced in building cross-platform applic
 
 - 💬 Ask me about... JavaScript, ReactJs, React-Native, TypeScript, NodeJs, FireBase, SQL, GraphQL.
 
-- 🔭 I’m currently working at https://www.banyanair.com/
+- 🔭 I’m currently working at banyanair.com
 
 <!-- # David K Landes Martinez
 
