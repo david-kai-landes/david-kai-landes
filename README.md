@@ -14,7 +14,7 @@ I'm a Software Developer experienced in building cross-platform applications.
 
 <!-- https://www.linkedin.com/in/david-landes-/ -->
 
-<a href="https://linkedin.com/in/linkedin.com/david-landes-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/david-landes-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-landes-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/david-landes-" height="30" width="40" /></a>
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/david-landes-//) -->
 
