@@ -6,9 +6,9 @@ I'm a Software Developer experienced in building cross-platform applications.
 
 - 🔭 I’m currently working at [Banyan Air Services](https://banyanair.com)
 
-- 📫 How to reach me: davidkailandes@gmail.com
+- 📫 How to reach me davidkailandes@gmail.com
 
-- 💬 Ask me about... JavaScript, ReactJs, React-Native, TypeScript, NodeJs, FireBase, SQL, GraphQL.
+- 💬 Ask me about JavaScript, ReactJs, React-Native, TypeScript, NodeJs, FireBase, SQL, GraphQL.
 
 #### Social Information
 
