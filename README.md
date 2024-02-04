@@ -2,7 +2,7 @@
 
 #### Software Developer
 
-I'm a dedicated Software Developer experienced in building cross-platform applications.
+I'm a Software Developer experienced in building cross-platform applications.
 
 - 🔭 I’m currently working at [Banyan Air Services](https://banyanair.com)
 
