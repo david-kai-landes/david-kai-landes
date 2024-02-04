@@ -18,3 +18,5 @@ I'm a dedicated Software Developer experienced in building cross-platform applic
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-kai-landes)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-kai-landes&" alt="david-kai-landes" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-kai-landes" alt="david-kai-landes" /></a>
