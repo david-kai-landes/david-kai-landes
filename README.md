@@ -10,11 +10,9 @@ I'm a Software Developer experienced in building cross-platform applications.
 
 - 💬 Ask me about... JavaScript, ReactJs, React-Native, TypeScript, NodeJs, FireBase, SQL, GraphQL.
 
-<!-- # David K Landes Martinez
+#### Social Information
 
-I'm a dedicated Software Developer experienced in building cross-platform applications. -->
-
-<!-- I'm a dedicated JavaScript Software Developer with experience using React, NextJS, React-Native, Expo, NodeJS, TypeScript, iLe RPG, MongoDB, Firebase, SQL, and GraphQL. -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/david-landes-//)
 
 #### Lenguage and Tools
 
@@ -28,3 +26,9 @@ I'm a dedicated Software Developer experienced in building cross-platform applic
 
 <!-- This will show Trophy -  -->
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-kai-landes" alt="david-kai-landes" /></a> -->
+
+<!-- # David K Landes Martinez
+
+I'm a dedicated Software Developer experienced in building cross-platform applications. -->
+
+<!-- I'm a dedicated JavaScript Software Developer with experience using React, NextJS, React-Native, Expo, NodeJS, TypeScript, iLe RPG, MongoDB, Firebase, SQL, and GraphQL. -->
