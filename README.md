@@ -19,4 +19,5 @@ I'm a dedicated Software Developer experienced in building cross-platform applic
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-kai-landes&" alt="david-kai-landes" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-kai-landes" alt="david-kai-landes" /></a>
+<!-- This will show Trophy -  -->
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-kai-landes" alt="david-kai-landes" /></a> -->
