@@ -2,13 +2,11 @@
 
 #### Software Developer
 
-<!-- ![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-
 I'm a dedicated Software Developer experienced in building cross-platform applications.
 
-Skills: JAVASCRIPT/ REACT JS / REACT-NATIVE/TYPESCRIPT/HTML / CSS
+- 💬 Ask me about... JavaScript, ReactJs, React-Native, TypeScript, NodeJs, FireBase, SQL, GraphQL.
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working at https://www.banyanair.com/
 
 <!-- # David K Landes Martinez
 
