@@ -2,7 +2,7 @@
 
 #### Software Developer
 
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I'm a dedicated Software Developer experienced in building cross-platform applications.
 
