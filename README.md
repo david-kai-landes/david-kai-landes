@@ -1,4 +1,4 @@
-### David k Landes Martinez
+### David K Landes Martinez
 
 #### Software Developer
 
