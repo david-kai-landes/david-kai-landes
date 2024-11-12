@@ -1,6 +1,7 @@
 ### David K Landes Martinez
 
 #### Software Developer
+## Introduction
 
 👋 Hi! I'm David, a passionate software developer focused on crafting clean, effective, and cross-platform applications.
 
