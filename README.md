@@ -1,6 +1,9 @@
 ### David K Landes Martinez
 
 #### Software Developer
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
 
 👋 Hi! I'm David, a passionate software developer focused on crafting clean, effective, and cross-platform applications.
 
