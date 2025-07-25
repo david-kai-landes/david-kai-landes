@@ -1,7 +1,8 @@
 # 👨‍💻 David K Landes Martinez
 
-![Profile views](https://komarev.com/ghpvc/?username=david-kai-landes&label=Profile%20views&color=blue)
-![Status](https://img.shields.io/badge/Open_to_Work-yes-success?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/david-kai-landes?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=david-kai-landes&label=Profile%20views&color=0e75b6&style=flat)
+![Status](https://img.shields.io/badge/Open_to_Work-yes-brightgreen?style=flat-square&logo=github)
 
 ## Software Developer
 👋 Hi! I'm David, a passionate software developer focused on crafting clean, effective, and cross-platform applications.
