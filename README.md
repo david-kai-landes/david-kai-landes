@@ -4,6 +4,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=david-kai-landes&label=Profile%20views&color=0e75b6&style=flat)
 ![Status](https://img.shields.io/badge/Open_to_Work-yes-brightgreen?style=flat-square&logo=github)
 
+<div align="center">
+  <img src="https://lottie.host/9bced50a-66b8-489f-a041-650fe9422be2/njQOvUKINz.json" width="300" />
+</div>
+
+
 ## Software Developer
 👋 Hi! I'm David, a passionate software developer focused on crafting clean, effective, and cross-platform applications.
 
