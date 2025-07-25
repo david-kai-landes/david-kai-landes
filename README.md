@@ -2,18 +2,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-function HelloWorld() {
-  return <div>Welcome to my mind 🧠</div>
-}
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/header.svg" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/yourBanner.gif" width="100%" alt="David Landes Banner" />
-</div>
-
 # 👨‍💻 David K Landes Martinez
 
 ![GitHub followers](https://img.shields.io/github/followers/david-kai-landes?label=Follow&style=social)
