@@ -41,6 +41,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=david-kai-landes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+
+## Activity On GitHub
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=david-kai-landes&theme=tokyonight" alt="GitHub Streak"/>
 </p>
