@@ -45,8 +45,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=david-kai-landes&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-kai-landes)](https://github.com/anuraghazra/github-readme-stats)
-
-## Activity On GitHub
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-kai-landes&" alt="david-kai-landes" />
 
