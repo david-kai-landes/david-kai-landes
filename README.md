@@ -7,7 +7,7 @@
 ## Software Developer
 👋 Hi! I'm David, a passionate software developer focused on crafting clean, effective, and cross-platform applications.
 
-- 🔭 I’m currently working at [Banyan Air Services](https://banyanair.com)
+- 🔭 I’m currently working at [Moak Studio](https://www.moak.studio/)
 
 - 📫 How to reach me davidkailandes@gmail.com
 
