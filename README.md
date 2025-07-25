@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://your-image-link.com/header.gif" alt="cool hacker animation" width="100%" />
 </div>
 
 
