@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+
 # 👨‍💻 David K Landes Martinez
 
 ![GitHub followers](https://img.shields.io/github/followers/david-kai-landes?label=Follow&style=social)
